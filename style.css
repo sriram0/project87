@@ -1,0 +1,24 @@
+
+#c, body{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body{
+    background-image: url("prback.jpg");
+}
+
+#c
+{
+    border: 3px ridge yellow;
+    background-image: url("power-rangers-title.png");
+}
+
+h3
+{
+	width: 1000px;
+	background-color: white;
+	display: inline-block;
+}
+
